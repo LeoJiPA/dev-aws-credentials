@@ -1,0 +1,1 @@
+python.exe .\aws_credentials_update.py
